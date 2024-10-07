@@ -1,1 +1,1 @@
-# nikopkat-areaofmagic
+# nikopkat-shortscripts
