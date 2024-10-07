@@ -1,1 +1,1 @@
-# nikopkat-shortscripts
+# NK-shortscripts
